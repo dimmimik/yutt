@@ -1,0 +1,14 @@
+{
+    "generatedAt": "2026-07-30T18:00:00Z",
+    "stablecoin": "USDC",
+    "totalTransfers": 4,
+    "totalVolume": 1505,
+    "totalFees": 1.42,
+    "averageFee": 0.355,
+    "networks": [
+        "Ethereum",
+        "Base",
+        "Arbitrum",
+        "Polygon"
+    ]
+}
