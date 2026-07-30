@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "from": "Ethereum",
+        "to": "Base",
+        "amount": 420,
+        "fee": 0.42
+    },
+    {
+        "id": 2,
+        "from": "Base",
+        "to": "Arbitrum",
+        "amount": 190,
+        "fee": 0.18
+    },
+    {
+        "id": 3,
+        "from": "Polygon",
+        "to": "Ethereum",
+        "amount": 800,
+        "fee": 0.71
+    },
+    {
+        "id": 4,
+        "from": "Arbitrum",
+        "to": "Polygon",
+        "amount": 95,
+        "fee": 0.11
+    }
+]
