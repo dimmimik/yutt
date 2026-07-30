@@ -1,0 +1,11 @@
+{
+  "name": "cross-chain-transfer-visualizer",
+  "version": "1.0.0",
+  "description": "Visualization of USDC transfers across EVM networks.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node tests/transfer.test.js"
+  },
+  "license": "MIT"
+}
